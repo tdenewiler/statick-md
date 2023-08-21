@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
 
+### Removed
+
+- Running Statick with Python 3.7 is no longer tested or supported.
+  Python 3.7 reached end-of-life status on 27 June 2023.
+
 ## v0.1.3 - 2023-04-24
 
 ### Changed
