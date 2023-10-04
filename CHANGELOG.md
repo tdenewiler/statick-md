@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
 
+### Added
+
+- Python 3.12 used in continuous integration workflows.
+
 ## v0.1.3 - 2023-04-24
 
 ### Changed
